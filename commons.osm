@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2014-06-16T10:15:02Z"/>
+
+  <node id="290422098" lat="47.0674114" lon="15.4551828" version="11" timestamp="2013-10-27T13:44:20Z" changeset="18566334" uid="321042" user="species">
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Rechbauerstraße"/>
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="commons" v="bicycle_pump"/>
+    <tag k="name" v="Bicycle"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-13:00,14:00-18:00"/>
+    <tag k="operator" v="bicyle.at"/>
+    <tag k="service:bicycle:pump" v="yes"/>
+    <tag k="service:bicycle:rental" v="yes"/>
+    <tag k="service:bicycle:repair" v="yes"/>
+    <tag k="service:bicycle:second_hand" v="yes"/>
+    <tag k="shop" v="bicycle"/>
+    <tag k="website" v="www.bicycle.at"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="668061696" lat="47.0655785" lon="15.4505767" version="9" timestamp="2013-10-27T23:09:19Z" changeset="18576414" uid="421574" user="daveste">
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Brockmanngasse"/>
+    <tag k="commons" v="hackerspace"/>
+    <tag k="description" v="realraum - hackerspace in Graz. Labor für Elektronik, Computer und Technik Geeks"/>
+    <tag k="drink:club-mate" v="yes"/>
+    <tag k="leisure" v="hackerspace"/>
+    <tag k="name" v="realraum"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.realraum.at"/>
+  </node>
+  <node id="828483278" lat="47.0585216" lon="15.4605761" version="7" timestamp="2013-10-28T11:30:37Z" changeset="18582624" uid="421574" user="daveste">
+    <tag k="amenity" v="vending_machine"/>
+    <tag k="commons" v="bicycle_pump"/>
+    <tag k="covered" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="operator" v="Bicycle"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:notes" v="no"/>
+    <tag k="vending" v="bicycle_tube"/>
+  </node>
+  <node id="1373592781" lat="47.0638340" lon="15.4423455" version="6" timestamp="2014-05-16T12:09:12Z" changeset="22370324" uid="44875" user="quno">
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Schießstattgasse"/>
+    <tag k="commons" v="workshop"/>
+    <tag k="name" v="Fahrradküche Graz"/>
+    <tag k="opening_hours" v="Thursday 17:00-21:00"/>
+    <tag k="payment:bitcoins" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="shop" v="bicycle"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://www.fahrradkueche.com/"/>
+  </node>
+  <node id="1610293356" lat="47.0647913" lon="15.4541099" version="3" timestamp="2013-10-27T13:44:21Z" changeset="18566334" uid="321042" user="species">
+    <tag k="amenity" v="vending_machine"/>
+    <tag k="commons" v="bicycle_pump"/>
+    <tag k="covered" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="operator" v="Bicycle"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:notes" v="no"/>
+    <tag k="service:bicycle:diy" v="yes"/>
+    <tag k="service:bicycle:pump" v="yes"/>
+    <tag k="vending" v="bicycle_tube"/>
+  </node>
+  <node id="2071435836" lat="47.0625552" lon="15.4515242" version="9" timestamp="2014-06-15T22:57:42Z" changeset="22953763" uid="1886079" user="ponci4520">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Münzgrabenstraße"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="commons" v="food &amp; Open space"/>
+    <tag k="cuisine" v="vegetarian"/>
+    <tag k="description" v="Das Kollektiv-Café"/>
+    <tag k="diet:vegetarian" v="only"/>
+    <tag k="facebook:page" v="https://www.facebook.com/pages/GMOTA-das-Kollektiv-Caf%C3%A9/496030790419074"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Gmota"/>
+    <tag k="note" v="Vereinslokal, Jeder willkommen! Kollektivcafé, Werkstätten und Open Space"/>
+    <tag k="opening_hours" v="Th-Su 11:00-18:00"/>
+    <tag k="phone" v="+4368181917493"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="www.gmota.at"/>
+  </node>
+  <node id="2402191138" lat="47.0591379" lon="15.4554527" version="2" timestamp="2013-10-27T23:44:09Z" changeset="18576853" uid="421574" user="daveste">
+    <tag k="commons" v="sports"/>
+    <tag k="sport" v="table_tennis"/>
+  </node>
+  <node id="2510234685" lat="47.0664197" lon="15.4481659" version="1" timestamp="2013-10-27T11:49:16Z" changeset="18564640" uid="1783530" user="brikarus">
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Dietrichsteinplatz"/>
+    <tag k="commons" v="office"/>
+    <tag k="contact:email" v="grazattac.at"/>
+    <tag k="name" v="Initiativenbüro"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2510384944" lat="47.0696996" lon="15.4511329" version="1" timestamp="2013-10-27T14:16:53Z" changeset="18566869" uid="321042" user="species">
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Gartengasse"/>
+    <tag k="commons" v="food"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Gemüsewerkstatt"/>
+    <tag k="opening_hours" v="Fr 14:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://gemuesewerkstatt.at"/>
+  </node>
+  <node id="2510393021" lat="47.0767525" lon="15.4544042" version="1" timestamp="2013-10-27T14:28:55Z" changeset="18567072" uid="321042" user="species">
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Leechgasse"/>
+    <tag k="commons" v="supportgroup"/>
+    <tag k="name" v="Selfthilfecontaktstelle"/>
+  </node>
+  <node id="2510921900" lat="47.0693010" lon="15.4552039" version="1" timestamp="2013-10-27T22:33:14Z" changeset="18575986" uid="421574" user="daveste">
+    <tag k="commons" v="food"/>
+    <tag k="name" v="GeLaWi Kleine Farm (Abholpunkt)"/>
+    <tag k="website" v="http://www.kleinefarm.org/"/>
+  </node>
+  <node id="2510955486" lat="47.0655561" lon="15.4505737" version="2" timestamp="2013-10-27T23:09:48Z" changeset="18576422" uid="421574" user="daveste">
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Brockmanngasse"/>
+    <tag k="commons" v="hackerspace"/>
+    <tag k="leisure" v="hackerspace"/>
+    <tag k="name" v="Open Biolab Graz Austria (OLGA)"/>
+    <tag k="website" v="http://olga.realraum.at/"/>
+  </node>
+  <node id="2510965941" lat="47.0626247" lon="15.4517458" version="3" timestamp="2014-05-08T19:11:43Z" changeset="22216565" uid="321042" user="species">
+    <tag k="commons" v="lets"/>
+    <tag k="name" v="Kost-Nix-Laden"/>
+    <tag k="opening_hours" v="Th-Su 11:00-18:00"/>
+  </node>
+  <node id="2510966430" lat="47.0789529" lon="15.4489798" version="1" timestamp="2013-10-27T23:36:12Z" changeset="18576762" uid="421574" user="daveste">
+    <tag k="comment" v="im Unicafe"/>
+    <tag k="commons" v="lets"/>
+    <tag k="name" v="Lehrbücher-Tausch-Schenk Regal"/>
+  </node>
+  <node id="2510966671" lat="47.0746991" lon="15.4435909" version="2" timestamp="2014-01-24T19:25:29Z" changeset="20182878" uid="1486839" user="ypid">
+    <tag k="commons" v="event"/>
+    <tag k="leisure" v="Event"/>
+    <tag k="name" v="Forumküche"/>
+    <tag k="opening_hours" v="Th[1]"/>
+  </node>
+  <node id="2510991672" lat="47.0674690" lon="15.4551052" version="3" timestamp="2013-10-28T00:41:48Z" changeset="18577207" uid="421574" user="daveste">
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Rechbauerstraße"/>
+    <tag k="comment" v="available when store next to this station is open"/>
+    <tag k="commons" v="bicycleservicestation"/>
+    <tag k="name" v="Fahrradservice Box"/>
+    <tag k="service:bicycle:pump" v="yes"/>
+    <tag k="service:bicycle:tools" v="no"/>
+    <tag k="source" v="http://graz.radln.net/cms/beitrag/10898897/25359554/"/>
+  </node>
+  <node id="2510992382" lat="47.0782534" lon="15.4498493" version="2" timestamp="2013-10-28T00:34:12Z" changeset="18577174" uid="421574" user="daveste">
+    <tag k="commons" v="bicycleservicestation"/>
+    <tag k="facility" v="Schlauchautomat"/>
+    <tag k="name" v="Fahrradservice Box"/>
+    <tag k="service:bicycle:pump" v="yes"/>
+    <tag k="service:bicycle:tools" v="yes"/>
+    <tag k="source" v="http://graz.radln.net/cms/beitrag/10898897/25359554/"/>
+  </node>
+  <node id="2511362208" lat="47.0585249" lon="15.4605851" version="1" timestamp="2013-10-28T11:30:37Z" changeset="18582624" uid="421574" user="daveste">
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Inffeldgasse"/>
+    <tag k="commons" v="bicycleservicestation"/>
+    <tag k="name" v="Fahrradservice Box"/>
+    <tag k="service:bicycle:pump" v="yes"/>
+    <tag k="service:bicycle:tools" v="yes"/>
+  </node>
+  <way id="68808587" version="2" timestamp="2013-10-27T23:46:12Z" changeset="18576870" uid="421574" user="daveste">
+    <nd ref="826740500"/>
+    <nd ref="826740402"/>
+    <nd ref="826740368"/>
+    <nd ref="826740338"/>
+    <nd ref="826740528"/>
+    <nd ref="826740500"/>
+    <tag k="commons" v="sports"/>
+    <tag k="fee" v="no"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="GPS"/>
+    <tag k="sport" v="soccer"/>
+    <tag k="surface" v="grass"/>
+  </way>
+  <way id="68808616" version="3" timestamp="2013-10-27T23:46:12Z" changeset="18576870" uid="421574" user="daveste">
+    <nd ref="826740311"/>
+    <nd ref="2408665354"/>
+    <nd ref="826740371"/>
+    <nd ref="826740206"/>
+    <nd ref="826740481"/>
+    <nd ref="826740311"/>
+    <tag k="commons" v="sports"/>
+    <tag k="fee" v="no"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="maxstay" v="30min"/>
+    <tag k="source" v="GPS"/>
+    <tag k="sport" v="tennis"/>
+    <tag k="surface" v="sand"/>
+  </way>
+  <way id="68808619" version="3" timestamp="2013-10-27T23:46:12Z" changeset="18576870" uid="421574" user="daveste">
+    <nd ref="826740281"/>
+    <nd ref="826740470"/>
+    <nd ref="826740415"/>
+    <nd ref="826835935"/>
+    <nd ref="826740318"/>
+    <nd ref="826740281"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="commons" v="playground"/>
+    <tag k="leisure" v="playground"/>
+    <tag k="name" v="Dominikanergrund"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="90346253" version="4" timestamp="2013-10-27T14:02:32Z" changeset="18566604" uid="321042" user="species">
+    <nd ref="1048260608"/>
+    <nd ref="1992891212"/>
+    <nd ref="1048260587"/>
+    <nd ref="1048260583"/>
+    <nd ref="1048260590"/>
+    <nd ref="1048260594"/>
+    <nd ref="1048260603"/>
+    <nd ref="1048260608"/>
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Stadtpark"/>
+    <tag k="amenity" v="arts_centre"/>
+    <tag k="building" v="yes"/>
+    <tag k="commons" v="culture"/>
+    <tag k="drink:club-mate" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="name" v="Forum Stadtpark"/>
+    <tag k="website" v="http://forum.mur.at"/>
+    <tag k="wikipedia" v="de:Forum Stadtpark"/>
+  </way>
+  <way id="111842237" version="2" timestamp="2013-10-27T23:44:09Z" changeset="18576853" uid="421574" user="daveste">
+    <nd ref="1273323272"/>
+    <nd ref="1273323172"/>
+    <nd ref="1273323296"/>
+    <nd ref="1273323225"/>
+    <nd ref="1273323272"/>
+    <tag k="commons" v="sports"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="source" v="survey"/>
+    <tag k="sport" v="volleyball"/>
+  </way>
+  <way id="225493325" version="4" timestamp="2013-10-27T14:08:15Z" changeset="18566706" uid="421574" user="daveste">
+    <nd ref="2342663728"/>
+    <nd ref="2342663726"/>
+    <nd ref="2342663725"/>
+    <nd ref="1052262596"/>
+    <nd ref="1052262617"/>
+    <nd ref="1052262593"/>
+    <nd ref="1052262615"/>
+    <nd ref="2342663728"/>
+    <tag k="access" v="public"/>
+    <tag k="commons" v="communitygarden"/>
+    <tag k="leisure" v="garden"/>
+    <tag k="name" v="Allmende Leech"/>
+    <tag k="opening_hours" v="10:00-17:00"/>
+    <tag k="operator" v="KHG"/>
+  </way>
+  <way id="230832604" version="2" timestamp="2013-10-27T23:52:06Z" changeset="18576923" uid="421574" user="daveste">
+    <nd ref="2392717425"/>
+    <nd ref="2392717416"/>
+    <nd ref="2392717407"/>
+    <nd ref="2392717400"/>
+    <nd ref="2392717390"/>
+    <nd ref="2392717382"/>
+    <nd ref="2392717373"/>
+    <nd ref="2392717367"/>
+    <nd ref="2392717361"/>
+    <nd ref="2392717381"/>
+    <nd ref="2392717392"/>
+    <nd ref="2392717397"/>
+    <nd ref="2392717413"/>
+    <nd ref="2392717419"/>
+    <nd ref="2392717426"/>
+    <nd ref="2392717425"/>
+    <tag k="commons" v="playground"/>
+    <tag k="leisure" v="playground"/>
+  </way>
+  <way id="243658710" version="1" timestamp="2013-10-27T14:18:24Z" changeset="18566889" uid="421574" user="daveste">
+    <nd ref="1091651527"/>
+    <nd ref="1091651543"/>
+    <nd ref="1092787882"/>
+    <nd ref="1091653187"/>
+    <nd ref="1091927356"/>
+    <nd ref="1091927315"/>
+    <nd ref="1091927320"/>
+    <nd ref="1091927323"/>
+    <nd ref="1091927349"/>
+    <nd ref="2510385155"/>
+    <nd ref="833763318"/>
+    <nd ref="2510385156"/>
+    <nd ref="1091651523"/>
+    <nd ref="2510385157"/>
+    <nd ref="1091651527"/>
+    <tag k="commons" v="communitygarden"/>
+    <tag k="leisure" v="garden"/>
+    <tag k="name" v="Gemeinschaftsprojekt Attemsgarten"/>
+  </way>
+  <node id="826740500" lat="47.0623826" lon="15.4533408" version="3" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="826740528" lat="47.0628183" lon="15.4530325" version="5" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="2392717373" lat="47.0667273" lon="15.4533829" version="1" timestamp="2013-07-22T11:41:22Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717382" lat="47.0667624" lon="15.4533189" version="1" timestamp="2013-07-22T11:41:23Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717390" lat="47.0667935" lon="15.4533313" version="1" timestamp="2013-07-22T11:41:23Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717400" lat="47.0668315" lon="15.4532798" version="1" timestamp="2013-07-22T11:41:23Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717407" lat="47.0668483" lon="15.4532903" version="1" timestamp="2013-07-22T11:41:23Z" changeset="17047386" uid="1645432" user="ena1204">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="2392717416" lat="47.0668819" lon="15.4533114" version="1" timestamp="2013-07-22T11:41:23Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717425" lat="47.0669312" lon="15.4533804" version="1" timestamp="2013-07-22T11:41:24Z" changeset="17047386" uid="1645432" user="ena1204">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="826740281" lat="47.0617387" lon="15.4538235" version="2" timestamp="2010-07-21T12:58:48Z" changeset="5278775" uid="321042" user="species"/>
+  <node id="1273323172" lat="47.0591581" lon="15.4552504" version="1" timestamp="2011-05-05T17:48:10Z" changeset="8059257" uid="321042" user="species"/>
+  <node id="1273323225" lat="47.0589257" lon="15.4552266" version="1" timestamp="2011-05-05T17:48:11Z" changeset="8059257" uid="321042" user="species"/>
+  <node id="1273323272" lat="47.0591087" lon="15.4550962" version="1" timestamp="2011-05-05T17:48:12Z" changeset="8059257" uid="321042" user="species"/>
+  <node id="1273323296" lat="47.0589805" lon="15.4553830" version="1" timestamp="2011-05-05T17:48:12Z" changeset="8059257" uid="321042" user="species"/>
+  <node id="826740206" lat="47.0625349" lon="15.4538328" version="4" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="826740311" lat="47.0621232" lon="15.4536426" version="4" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="826740318" lat="47.0619371" lon="15.4543671" version="4" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="826740338" lat="47.0629834" lon="15.4535353" version="5" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="826740368" lat="47.0629883" lon="15.4535503" version="4" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204">
+    <tag k="access" v="yes"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="no"/>
+  </node>
+  <node id="826740371" lat="47.0623952" lon="15.4534362" version="3" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="826740402" lat="47.0625526" lon="15.4538587" version="4" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="826740415" lat="47.0622588" lon="15.4540824" version="4" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="826740470" lat="47.0620759" lon="15.4535722" version="3" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="826740481" lat="47.0622629" lon="15.4540392" version="4" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204"/>
+  <node id="826835935" lat="47.0619486" lon="15.4543514" version="4" timestamp="2013-08-06T09:25:24Z" changeset="17238662" uid="1645432" user="ena1204">
+    <tag k="access" v="yes"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="no"/>
+  </node>
+  <node id="2408665354" lat="47.0621576" lon="15.4536165" version="2" timestamp="2014-06-01T08:31:47Z" changeset="22668668" uid="474183" user="ratrun">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="2392717361" lat="47.0667012" lon="15.4534719" version="1" timestamp="2013-07-22T11:41:22Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717367" lat="47.0667103" lon="15.4534345" version="1" timestamp="2013-07-22T11:41:22Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717381" lat="47.0667550" lon="15.4535168" version="1" timestamp="2013-07-22T11:41:23Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717392" lat="47.0668057" lon="15.4535518" version="1" timestamp="2013-07-22T11:41:23Z" changeset="17047386" uid="1645432" user="ena1204">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="2392717397" lat="47.0668224" lon="15.4535634" version="1" timestamp="2013-07-22T11:41:23Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717413" lat="47.0668649" lon="15.4535667" version="1" timestamp="2013-07-22T11:41:23Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717419" lat="47.0668989" lon="15.4535135" version="1" timestamp="2013-07-22T11:41:24Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="2392717426" lat="47.0669454" lon="15.4533962" version="1" timestamp="2013-07-22T11:41:24Z" changeset="17047386" uid="1645432" user="ena1204"/>
+  <node id="1052262593" lat="47.0756907" lon="15.4465668" version="1" timestamp="2010-12-20T18:57:43Z" changeset="6718742" uid="69102" user="Mathbau"/>
+  <node id="1052262615" lat="47.0757154" lon="15.4466338" version="1" timestamp="2010-12-20T18:57:44Z" changeset="6718742" uid="69102" user="Mathbau"/>
+  <node id="1048260583" lat="47.0745213" lon="15.4437009" version="3" timestamp="2012-11-01T20:06:52Z" changeset="13715113" uid="321042" user="species"/>
+  <node id="1048260587" lat="47.0744915" lon="15.4435600" version="3" timestamp="2012-11-01T20:06:52Z" changeset="13715113" uid="321042" user="species"/>
+  <node id="1048260590" lat="47.0746367" lon="15.4436483" version="3" timestamp="2012-11-01T20:06:52Z" changeset="13715113" uid="321042" user="species"/>
+  <node id="1048260594" lat="47.0746504" lon="15.4437133" version="3" timestamp="2012-11-01T20:06:52Z" changeset="13715113" uid="321042" user="species"/>
+  <node id="1048260603" lat="47.0748491" lon="15.4436227" version="3" timestamp="2012-11-01T20:06:52Z" changeset="13715113" uid="321042" user="species"/>
+  <node id="1048260608" lat="47.0748056" lon="15.4434169" version="3" timestamp="2012-11-01T20:06:52Z" changeset="13715113" uid="321042" user="species"/>
+  <node id="1052262617" lat="47.0756515" lon="15.4465037" version="2" timestamp="2013-06-12T22:05:08Z" changeset="16530560" uid="321042" user="species">
+    <tag k="access" v="public"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="opening_hours" v="10:00-17:00"/>
+  </node>
+  <node id="2342663725" lat="47.0759561" lon="15.4462003" version="1" timestamp="2013-06-12T22:05:05Z" changeset="16530560" uid="321042" user="species"/>
+  <node id="2342663726" lat="47.0759817" lon="15.4462617" version="1" timestamp="2013-06-12T22:05:05Z" changeset="16530560" uid="321042" user="species"/>
+  <node id="2342663728" lat="47.0760214" lon="15.4463570" version="1" timestamp="2013-06-12T22:05:05Z" changeset="16530560" uid="321042" user="species"/>
+  <node id="1052262596" lat="47.0756406" lon="15.4464939" version="2" timestamp="2013-10-27T14:08:15Z" changeset="18566706" uid="421574" user="daveste"/>
+  <node id="1992891212" lat="47.0746378" lon="15.4434934" version="2" timestamp="2014-06-01T08:31:47Z" changeset="22668668" uid="474183" user="ratrun">
+    <tag k="building" v="entrance"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="833763318" lat="47.0784253" lon="15.4475101" version="2" timestamp="2010-12-22T14:30:59Z" changeset="6736121" uid="69102" user="Mathbau"/>
+  <node id="1091653187" lat="47.0780884" lon="15.4472569" version="2" timestamp="2011-01-08T17:53:30Z" changeset="6906747" uid="69102" user="Mathbau"/>
+  <node id="1091927315" lat="47.0781709" lon="15.4473786" version="1" timestamp="2011-01-08T17:53:29Z" changeset="6906747" uid="69102" user="Mathbau"/>
+  <node id="1091927320" lat="47.0782229" lon="15.4475150" version="1" timestamp="2011-01-08T17:53:29Z" changeset="6906747" uid="69102" user="Mathbau"/>
+  <node id="1091927323" lat="47.0781947" lon="15.4475382" version="1" timestamp="2011-01-08T17:53:29Z" changeset="6906747" uid="69102" user="Mathbau"/>
+  <node id="1091927349" lat="47.0782429" lon="15.4476608" version="2" timestamp="2011-01-09T00:30:38Z" changeset="6910870" uid="69102" user="Mathbau"/>
+  <node id="1091927356" lat="47.0781433" lon="15.4474013" version="1" timestamp="2011-01-08T17:53:29Z" changeset="6906747" uid="69102" user="Mathbau"/>
+  <node id="1092787882" lat="47.0784371" lon="15.4470345" version="2" timestamp="2011-11-07T20:41:11Z" changeset="9768608" uid="521541" user="domob"/>
+  <node id="1091651523" lat="47.0785206" lon="15.4473891" version="2" timestamp="2012-10-16T07:04:22Z" changeset="13514921" uid="521541" user="domob"/>
+  <node id="1091651527" lat="47.0784807" lon="15.4472464" version="2" timestamp="2012-10-16T07:04:22Z" changeset="13514921" uid="521541" user="domob"/>
+  <node id="1091651543" lat="47.0784536" lon="15.4471256" version="2" timestamp="2012-10-16T07:04:23Z" changeset="13514921" uid="521541" user="domob"/>
+  <node id="2510385155" lat="47.0782870" lon="15.4476759" version="1" timestamp="2013-10-27T14:18:24Z" changeset="18566889" uid="421574" user="daveste"/>
+  <node id="2510385156" lat="47.0785218" lon="15.4473943" version="1" timestamp="2013-10-27T14:18:24Z" changeset="18566889" uid="421574" user="daveste"/>
+  <node id="2510385157" lat="47.0785048" lon="15.4473326" version="1" timestamp="2013-10-27T14:18:24Z" changeset="18566889" uid="421574" user="daveste"/>
+
+</osm>
